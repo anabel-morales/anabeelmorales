@@ -42,7 +42,7 @@ public class MiniCalculadora {
         double num = 7;
         System.out.println("El valor absoluto es " + num + " : " + valorAbsoluto(num));
         System.out.println("La raíz cuadrada de " + num + " : " + raizCuadrada(num));
-        System.out.println("Cambio realizadoo");
+        System.out.println("Cambio realizado");
     }
 
 }
